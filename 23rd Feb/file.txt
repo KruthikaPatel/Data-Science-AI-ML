@@ -1,0 +1,2 @@
+ecHello from feature branchgit add file.txt
+git commit -m "Edited in feature branch"
